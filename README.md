@@ -8,6 +8,7 @@
 - 📫 How to reach me **2022uec1647@mnit.acin**
 
 <h3 align="left">Connect with me:</h3>
+<h3 align="left">Coding Profiles:</h3>
 <p align="left">
 <a href=https://www.linkedin.com/in/nagaraju-ramavath-b67460282/ target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536569.png" alt="" height="30" width="40" />LinkedIn</a>
   <a href=https://leetcode.com/u/nagarajucse036/ target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/711/711284.png" alt="" height="30" width="40" />LeetCode</a>
