@@ -29,7 +29,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <span align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="img" height="40" width="40" /> </span>
 <span align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="img" height="40" width="40" /> </span>
-<span align="left"> <img src="https://www.w3.org/html/logo/" alt="img" height="40" width="40" /> </span>
+<span align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png?20170517184425" height="40" width="40" /> </span>
 
 <br>
 <br>
