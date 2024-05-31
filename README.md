@@ -12,9 +12,6 @@
 <a href=https://www.linkedin.com/in/nagaraju-ramavath-b67460282/ target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536569.png" alt="" height="30" width="40" />LinkedIn</a>
   <a href=https://leetcode.com/u/nagarajucse036/ target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/711/711284.png" alt="" height="30" width="40" />LeetCode</a>
   <a href=https://www.geeksforgeeks.org/user/nagarajuabd1/ target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/711/711284.png" alt="" height="30" width="40" />GeeksForGeeks</a>
-</p>
-  <a href=https://www.codechef.com/users/nagaraju20 target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/711/711284.png" alt="" height="30" width="40" />CodeChef</a>
-</p>
 <a href=https://www.hackerrank.com/profile/nagarajucse036 target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/711/711284.png" alt="" height="30" width="40" />HackerRank</a>
 </p>
 <a href=https://www.hackerearth.com/@2022uec1647 target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/711/711284.png" alt="" height="30" width="40" />HackerEarth</a>
