@@ -15,9 +15,9 @@
 </p>
   <a href=https://www.codechef.com/users/nagaraju20 target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/711/711284.png" alt="" height="30" width="40" />CodeChef</a>
 </p>
-<span href=https://www.hackerrank.com/profile/nagarajucse036 target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/711/711284.png" alt="" height="30" width="40" />HackerRank</span>
+<a href=https://www.hackerrank.com/profile/nagarajucse036 target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/711/711284.png" alt="" height="30" width="40" />HackerRank</a>
 </p>
-<span href=https://www.hackerearth.com/@2022uec1647 target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/711/711284.png" alt="" height="30" width="40" />HackerEarth</span>
+<a href=https://www.hackerearth.com/@2022uec1647 target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/711/711284.png" alt="" height="30" width="40" />HackerEarth</a>
 </p>
 
 
