@@ -1,4 +1,4 @@
-<h3 align="center"> <a = "https://www.google.com/imgres?q=hi%20emoji&imgurl=https%3A%2F%2Fimages.emojiterra.com%2Fgoogle%2Fnoto-emoji%2Funicode-15.1%2Fcolor%2F1024px%2F1f44b.png&imgrefurl=https%3A%2F%2Femojiterra.com%2Fwaving-hand%2F&docid=zby86HyVb-9jLM&tbnid=u28uBsL6uyPtsM&vet=12ahUKEwihtKHqg7iGAxWtxzgGHcoLBRAQM3oECGQQAA..i&w=1024&h=1024&hcb=2&ved=2ahUKEwihtKHqg7iGAxWtxzgGHcoLBRAQM3oECGQQAA"/a>Hi I'm RAMAVATH NAGARAJU</h3>
+<h3 align="center">Hi I'm RAMAVATH NAGARAJU</h3>
 <h5 align="center">I am a 3rd year student at MNIT ,Jaipur. Learned Full Stack Development.Backend using Django. Django Rest-Framework and many more related to the development apart from it I have solved many DSA problems and apply it to write a optimize code in the Development. </h5>
 
 <p align="left"> <img src="https://avatars.githubusercontent.com/u/161068987?v=4" alt="Ramavath Nagaraju" height="160" width="160" /> </p>
