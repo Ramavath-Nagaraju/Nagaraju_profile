@@ -28,6 +28,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <span align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="img" height="40" width="40" /> </span>
-<span align="left"> <img src=https://d3eeke16mv0lt7.cloudfront.net/sites/default/files/styles/article_hero_image__1_5x/public/html5-mobile-app-native-hybrid-pros-cons.jpg?itok=h8HDq4Zr alt="img" height="40" width="40" /> </span>
+<span align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="img" height="40" width="40" /> </span>
 <br>
 <br>
