@@ -27,12 +27,7 @@
 - MYSQL TAILWIND MONGODB MYSQL GIT GITHUB C++ DSA
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="img" height="40" width="40" /> </p>
-<p align="left"> <img src=https://d3eeke16mv0lt7.cloudfront.net/sites/default/files/styles/article_hero_image__1_5x/public/html5-mobile-app-native-hybrid-pros-cons.jpg?itok=h8HDq4Zr alt="img" height="40" width="40" /> </p>
-<p align="left">
-  <a href=https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="python" width="40" height="40"/> </a>
-   </p>
-<!-- <p><img align="left" src="https://avatars.githubusercontent.com/u/123726742?v=4" alt="Ashish kumar " /></p> -->
-
+<span align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="img" height="40" width="40" /> </span>
+<span align="left"> <img src=https://d3eeke16mv0lt7.cloudfront.net/sites/default/files/styles/article_hero_image__1_5x/public/html5-mobile-app-native-hybrid-pros-cons.jpg?itok=h8HDq4Zr alt="img" height="40" width="40" /> </span>
 <br>
 <br>
