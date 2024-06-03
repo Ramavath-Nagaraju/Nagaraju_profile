@@ -26,7 +26,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <span align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="img" height="40" width="40" /> </span>
 <span align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png?20170517184425" height="50" width="50" /> </span>
-<span align="left"> <img src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo-768x480.png height="50" width="50" /> </span>
+<span align="left"> <img src="https://e7.pngegg.com/pngimages/640/199/png-clipart-javascript-logo-html-javascript-logo-angle-text-thumbnail.png" height="50" width="50" /> </span>
 
 
 <br>
