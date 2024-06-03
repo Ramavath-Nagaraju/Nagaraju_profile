@@ -15,7 +15,7 @@
   <a href=https://www.geeksforgeeks.org/user/nagarajuabd1/ target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/711/711284.png" alt="" height="30" width="40" />GeeksForGeeks</a>
 <a href=https://www.hackerrank.com/profile/nagarajucse036 target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/711/711284.png" alt="" height="30" width="40" />HackerRank</a>
 </p>
-<a href=https://www.hackerearth.com/@2022uec1647 target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/711/711284.png" alt="" height="30" width="40" />HackerEarth</a>
+<a href=https://www.hackerearth.com/@2022uec1647 target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/711/711284.png" />HackerEarth</a>
 </p>
 
 
