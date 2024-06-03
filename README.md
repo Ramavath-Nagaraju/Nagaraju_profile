@@ -1,5 +1,5 @@
 <h3 align="center">Hi I'm RAMAVATH NAGARAJU</h3>
-<h5 align="center">I am a 3rd year student at MNIT ,Jaipur. Learned Full Stack Development.Backend using Django. Django Rest-Framework and many more related to the development apart from it I have solved many DSA problems and apply it to write a optimize code in the Development. </h5>
+<h5 align="center">I am a 3rd year student at MNIT ,Jaipur. Learned Full Stack Development.Backend react, Rest-Framework and many more related to the development apart from it I have solved many DSA problems and apply it to write a optimize code in the Development. </h5>
 
 <p align="left"> <img src="https://avatars.githubusercontent.com/u/161068987?v=4" alt="Ramavath Nagaraju" height="160" width="160" /> </p>
 
